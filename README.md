@@ -3,7 +3,7 @@
 Spline Stamper is a Unity Terrain extension tool that allows you to quickly create paths, ramps, rivers and many other things using Native Unity Terrain.
 Add, delete, insert and move points to get the shape you want, the Terrain will automatically adjust both its Heightmap and Alphamap / Splatmap.
 
-![image](https://user-images.githubusercontent.com/91887444/135854675-65217bc2-30f2-4b11-a941-a70264502585.png)
+![image](https://user-images.githubusercontent.com/91887444/135858997-19228b50-b739-4c29-b34f-ec8e285e1b85.png)
 
 # Components
 1. **SplineStamper** is the main component that allows you to create Stampers. In should be attached to the Terrain Component.
